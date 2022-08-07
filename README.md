@@ -1,2 +1,2 @@
 # hello-github
-github エクササイズ
+hello Github.
